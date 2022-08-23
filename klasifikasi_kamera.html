@@ -63,7 +63,7 @@
     createCanvas(300, 250);
     // Create the video
     video = createCapture(VIDEO);
-    video.size(300, 220);
+    video.size(320, 220);
     video.hide();
 
     flippedVideo = ml5.flipImage(video);
@@ -77,7 +77,7 @@
     image(flippedVideo, 0, 0);
 
     // Draw the label
-    fill(255);
+    fill(290);
     textSize(16);
     textAlign(CENTER);
     text(label, width / 2, height - 4);

@@ -97,7 +97,7 @@ var loadFile = function (event) {
 function predict() {
   classifier.predict(document.getElementById("image"), 
     function (err, results) {
-      Swal.fire('Ini adalah '+ results[0].label)
+      Swal.fire('Ini '+ results[0].label)
 
   });
 }
