@@ -1,33 +1,33 @@
 body{
-    background-color: #E3E3E3;
+    background-color: #835656;
     color: #000;
 }
 h1{
-    font-size: 4vw;
+    font-size: 5vw;
 }
 h4{
-    font-size: 3vw;
+    font-size: 4vw;
 }
 
 h6{
-    font-size: 2vw;
+    font-size: 3vw;
 }
-.konten{
-    height: 400px;
-    width: 100%;
-    padding-top:1%;
-    height: 82vh;
-    background-repeat: no-repeat;
-}
+
 
 .button{
     background-color: #17a858;
+    color: #000000;
     padding: 5px;
     margin: 10px;
     border-radius: 20px;
     width: 130px;
     border: none;
 }
+
+.button:hover {
+    background-color: #0f743c; /* Green */
+    color: white;
+  }
 
 .row img{
 width: 100%;
@@ -48,7 +48,6 @@ top: 0px;
 
 .border{
     background-color:#0e1a13;
-    box-shadow: 10px 5px rgb(96, 97, 97);
 
 }
 
@@ -56,8 +55,6 @@ footer{
     background: rgb(0, 0, 0);
     text-align: center;
     font-size: 12px;
-    
-
 }
 footer a{
     text-decoration: none;
@@ -90,6 +87,7 @@ footer a{
     position: absolute;
     left: 0;
     top: 0;
-    background: rgb(243, 162, 162);
+    background: #17a858
+    ;
     text-align: center;
   }
