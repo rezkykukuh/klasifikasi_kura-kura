@@ -1,11 +1,12 @@
-{"tfjsVersion":"1.3.1","tmVersion":"2.4.5","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2022-08-18T11:33:16.036Z","userMetadata":{},"modelName":"klasifikasi kura-kura","labels":["Kura-Kura Aldabra",
-"Kura-Kura Aligator",
-"Kura-Kura Brazil",
-"Kura-Kura Matahari",
-"Kura-Kura Sulcata",
-"Kura-kura Indian Star",
-"Kura-kura Cherry Head",
-"Kura-kura Ambon",
-"Penyu Hijau",
-"Penyu Belimbing",
-"Labi-labi"],"imageSize":224}
+{"tfjsVersion":"1.3.1","tmVersion":"2.4.5","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2022-10-04T10:56:12.461Z","userMetadata":{},"modelName":"klasifikasi kura-kura","labels":[
+    "Kura-Kura Aldabra",
+    "Kura-Kura Aligator",
+    "Kura-Kura Brazil",
+    "Kura-Kura Matahari",
+    "Kura-Kura Sulcata",
+    "Kura-kura Indian Star",
+    "Kura-kura Cherry Had",
+    "Kura-kura Ambon",
+    "Penyu Hijau",
+    "Penyu Belimbing",
+    "Labi-labi"],"imageSize":224}
